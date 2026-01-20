@@ -38,3 +38,49 @@ const car = {
 
 
 */
+
+/*
+BUILT IN OBJECTS
+ARRAY
+FUNCTIONS
+
+var children = ['olive', 'clara', 'june','johnny','charles']
+
+var greet = function () {
+console.log('hello')
+}
+
+NAME IS A STRING WHICH IS A PRIMITIVE DATA-TYPE JUST LIKE THE FLINSTONES HAVING A CAR. 
+
+CAR IS A COMPLEX DATA TYPE WITH DIFFERENT . FUNCTIONS FOR EACH.
+
+FIGURING OUT WHAT CHARACTER IS IN THE STRING
+
+name.charAt(2)
+
+
+*/
+var children = ['olive', 'clara', 'june','johnny','charles']
+
+console.log(children)
+
+var greet = function () {
+    console.log('hello')
+}
+greet()
+greet()
+greet()
+
+
+var name = "Ryan"
+var car = {
+    color: "red",
+    wheels: 4,
+    drive: function () {
+        alert('vrrrooooooom')
+    }
+}
+
+console.log(name.charAt(3))
+
+
