@@ -81,8 +81,14 @@ var car = {
     }
 }
 
-console.log(name.charAt(3))
+console.log(name.charAt(2))
 
+
+new Date()
+
+
+var strObject = new String('Ryan')
+console.log(strObject)
 
 
 
