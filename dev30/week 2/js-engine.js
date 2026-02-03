@@ -1,2 +1,3 @@
 console.log(myName)
-// var myName = 'Ryan'
+var myName = 'Ryan'
+console.log(myName)
